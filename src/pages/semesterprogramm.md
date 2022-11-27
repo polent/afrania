@@ -1,7 +1,7 @@
 ---
 title: Unser Semesterprogramm
 seo:
-  title: Semesteraktivitäten bei Afrania. Hier finden Sie unser Semsterprogramm
+  description: Semesteraktivitäten bei Afrania. Hier finden Sie unser Semsterprogramm
 permalink: /semesterprogramm/index.html
 description: Semesteraktivitäten bei Afrania. Hier finden Sie unser Semsterprogramm
 layout: page

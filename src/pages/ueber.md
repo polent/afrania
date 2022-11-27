@@ -1,7 +1,9 @@
 ---
 title: Über die Landsmannschaft Afrania
+seo:
+  description: Die Leipziger Landsmannschaft Afrania ist eine Studentenverbindung
 permalink: /ueber/index.html
-description: Die Leipziger Landsmannschaft Afrania ist eine Studentenverbindung.
+description: Die Leipziger Landsmannschaft Afrania ist eine Studentenverbindung
 layout: page
 ---
 

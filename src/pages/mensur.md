@@ -1,7 +1,9 @@
 ---
 title: Die Mensur Landsmannschaft Afrania
+seo:
+  description: Afrania als Landsmannschaft im CC pflegt die Bestimmungsmensur
 permalink: /mensur/index.html
-description: Afrania als Landsmannschaft im CC pflegt die Bestimmungsmensur.
+description: Afrania als Landsmannschaft im CC pflegt die Bestimmungsmensur
 layout: page
 ---
 

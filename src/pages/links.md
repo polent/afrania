@@ -1,5 +1,7 @@
 ---
 title: Weiterführendes zu Afrania
+seo:
+  description: Die alte Leipziger Landsmannschaft im Internet
 permalink: /links/index.html
 description: Die alte Leipziger Landsmannschaft im Internet
 layout: page

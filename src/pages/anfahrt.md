@@ -1,5 +1,7 @@
 ---
 title: So kommen sie zur Landsmannschaft Afrania
+seo:
+  description: Wegbeschreibung zur Landsmannschaft Afrania
 permalink: /anfahrt/index.html
 description: Wegbeschreibung zur Landsmannschaft Afrania
 layout: page

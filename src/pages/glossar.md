@@ -1,5 +1,7 @@
 ---
 title: Glossar studentischer Begriffe
+seo:
+  description: Falls Sie Fragen zu auf diesem Internetauftritt verwendeten Begriffen haben, finden Sie hier Antworten
 permalink: /glossar/index.html
 description: Falls Sie Fragen zu auf diesem Internetauftritt verwendeten Begriffen haben, finden Sie hier Antworten
 layout: page

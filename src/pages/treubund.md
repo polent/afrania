@@ -1,5 +1,7 @@
 ---
 title: Der Treubund
+seo:
+  description: Der Treubund ist ein Zusammenschluss von Landsmannschaften und einer Turnerschaft des Coburger Convents
 permalink: /treubund/index.html
 description: Der Treubund ist ein Zusammenschluss von Landsmannschaften und einer Turnerschaft des Coburger Convents
 layout: page

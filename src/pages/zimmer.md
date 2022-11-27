@@ -1,7 +1,7 @@
 ---
 title: Zimmer zu Vermieten
 seo:
-  title: Wunderbare Aussicht und herrliche Umgebung!
+  description: Zimmer für Studenten. Wunderbare Aussicht und herrliche Umgebung!
 permalink: /zimmer/index.html
 description: Zimmer für Studenten. Wunderbare Aussicht und herrliche Umgebung!
 layout: page

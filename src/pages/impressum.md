@@ -1,7 +1,7 @@
 ---
 title: Impressum
 seo:
-  title: Impressum der Afrania
+  description: Impressum der Afrania
 permalink: /impressum/index.html
 description: Alle Infos zu Afrania
 layout: page

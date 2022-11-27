@@ -7,7 +7,7 @@
         "@id": "{{ meta.url }}#website",
         "url": "{{ meta.url }}",
         "name": "{{ meta.siteName }}",
-        "description": "{{ meta[locale].metaDescription }}",
+        "description": "{{ seo.description or meta.siteDescription }}",
         "inLanguage": "{{ meta.lang }}"
       }
     ]

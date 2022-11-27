@@ -1,0 +1,66 @@
+{% set assetHash = global.random() %}
+
+<!DOCTYPE html>
+<html lang="{{ meta.lang }}">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    {% include "partials/meta-info.njk" %}
+
+    <!-- fonts preload -->
+
+    <link
+      rel="preload"
+      href="/assets/fonts/inter/inter-v7-latin-500.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+
+    <link
+      rel="preload"
+      href="/assets/fonts/redhat/red-hat-display-v7-latin-900.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+
+    <link rel="stylesheet" href="/assets/css/global.css?{{ assetHash }}" />
+
+    <!-- defer js  -->
+    <script type="module" src="/assets/app.js" defer></script>
+
+    <!--  Add facility for pages to declare an array of stylesheet paths -->
+    {% if pageStylesheets %} {% for item in pageStylesheets %}
+    <link
+      rel="stylesheet"
+      media="print"
+      href="{{ item }}?{{ assetHash }}"
+      onload="this.media='all'"
+    />
+    {% endfor %} {% endif %}
+
+    <!-- include base schema  -->
+    {% include "schemas/base-schema.njk" %}
+  </head>
+
+  <body>
+    <!-- header -->
+    {% include "partials/header.njk" %}
+
+    <!-- content slot -->
+    <main id="main" class="flow">{{ content | safe }}</main>
+
+    <!-- footer -->
+    {% include "partials/footer.njk" %}
+
+    <!-- youtube if actvated in yaml -->
+    {% if youtube %}
+    <script
+      type="module"
+      src="https://cdn.jsdelivr.net/npm/@justinribeiro/lite-youtube@1.4.0/lite-youtube.min.js"
+    ></script>
+    {% endif %}
+  </body>
+</html>

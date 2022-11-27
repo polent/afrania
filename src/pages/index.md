@@ -15,4 +15,4 @@ Sollten Sie als Student auf der Suche nach einem Zimmer oder einer Wohnung in He
 
 Afrania lebt und gedeiht seit 1839 nach dem Wahlspruch:
 
-**"Ehrenhaftigkeit, Einigkeit, Gemüthlichkeit"**.
+### "Ehrenhaftigkeit, Einigkeit, Gemüthlichkeit"

@@ -2,7 +2,7 @@ const packageObj = require("../../package.json");
 
 module.exports = {
 	pkv: packageObj.version || "v1",
-	url: process.env.URL || "http://localhost:8080",
+	url: process.env.URL || "https://www.afrania.de",
 	siteName: "Landsmannschaft Afrania im CC zu Heidelberg",
 	siteDescription: "Webpage meiner lieben Afrania zu Heidelberg",
 	siteType: "Organisation", // schema

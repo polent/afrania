@@ -1,10 +1,10 @@
 {
-  "name": "eleventy-excellent",
+  "name": "landsmannschaft-afrania",
   "version": "1.1.2",
   "engines": {
     "node": ">=16.x.x"
   },
-  "description": "Eleventy starter based on the workflow suggested by Andy Bell's buildexcellentwebsit.es.",
+  "description": "Landsmannschaft Afrania Webpage",
   "main": ".eleventy.js",
   "scripts": {
     "clean": "rimraf dist",
@@ -20,9 +20,9 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/madrilene/eleventy-excellent.git"
+    "url": "https://github.com/polent/afrania.git"
   },
-  "author": "Lene Saile",
+  "author": "Holger Hellinger",
   "license": "ISC",
   "dependencies": {
     "@11ty/eleventy": "^2.0.0-canary.18",

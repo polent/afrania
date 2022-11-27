@@ -8,7 +8,6 @@ layout: base
       <h1 class="text-center">{{ title }}</h1>
     </div>
   </div>
-  {% include 'svg/divider-waves.svg' %}
 </header>
 
 <article class="region">
@@ -19,16 +18,33 @@ layout: base
 
 <article class="region" style="--region-space-top: var(--space-s)">
   <div class="wrapper flow prose">
-    <h2>{{ blog.title }}</h2>
-    <!-- blog intro text is optional. -->
-    {% if blog.intro %}
-    <p>{{ blog.intro }}</p>
-    {% endif %}
+    <h2>Das Wichtigste</h2>
   </div>
-  <!-- TODO: duplicate of partials/blog.njk -->
 
   <ul class="wrapper grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
-    {% set postslist = collections.posts %} {% for post in postslist.slice(0, 4) %} {%
-    include "partials/blog-card.njk" %} {% endfor %}
+    <li class="card flow clickable-card overflow-hidden">
+      <h3>
+        <a href="">Semesterprogramm</a>
+      </h3>
+      <p>Unser Semesterprogramm</p>
+    </li>
+    <li class="card flow clickable-card overflow-hidden">
+      <h3>
+        <a href="">Anfahrt</a>
+      </h3>
+      <p>So finden sie zu uns</p>
+    </li>
+    <li class="card flow clickable-card overflow-hidden">
+      <h3>
+        <a href="">Zimmervermietung</a>
+      </h3>
+      <p>Unsere Zimmer</p>
+    </li>
+    <li class="card flow clickable-card overflow-hidden">
+      <h3>
+        <a href="">Kontakt</a>
+      </h3>
+      <p>So erreichen sie uns</p>
+    </li>
   </ul>
 </article>

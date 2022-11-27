@@ -1,17 +1,18 @@
 ---
 permalink: /index.html
-title: ' Eleventy Excellent'
-description: 'Key principles using modern CSS, fluid type, fluid space, flexible layout and progressive enhancement will help you to build better front-ends that work for everyone.'
+title: 'Willkommen bei der Landsmannschaft Afrania'
+description: ''
 layout: 'home'
-blog:
-  title: 'Blog'
-  intro: "I'm showing the last 4 blog posts, but there might be more!"
 ---
 
-## An Eleventy starter
+## Wir freuen uns, Sie auf unserer Homepage begrüßen zu dürfen.
 
-This (opiniated) [Eleventy](https://www.11ty.dev/) starter is based on [Andy Bell's](https://twitter.com/piccalilli_) talk 'Be the browser’s mentor, not its micromanager' and it's companion website buildexcellentwebsit.es.
+Diese Homepage soll Ihnen Informationen zur Alten Leipziger Landsmannschaft Afrania bieten. Wir wollen Ihnen darüber hinaus helfen, mehr über Verbindungen und deren Selbstverständnis zu erfahren. Daher wünschen wir Ihnen viel Freude mit unserem Angebot.
 
-In his words, it's about hinting the browser rather than micromanaging it, using progressive enhancement, CSS layout, fluid type & spacing, as well as modern CSS features.
+Vollständig wird Sie diese Seite natürlich nie über das Verbindungsleben informieren können. Sie wird aber vielleicht helfen ein paar Vorurteile abzubauen. Wenn Sie wollen, hinterlassen Sie uns eine Nachricht im Gästebuch.
 
-This way we can shape frontends that look good to everyone, regardless of device, connection speed or context.
+Sollten Sie als Student auf der Suche nach einem Zimmer oder einer Wohnung in Heidelberg hierher gelangt sein, so können Sie sich mit dem Kontaktformular mit uns in Verbindung setzen.
+
+Afrania lebt und gedeiht seit 1839 nach dem Wahlspruch:
+
+"Ehrenhaftigkeit, Einigkeit, Gemüthlichkeit".

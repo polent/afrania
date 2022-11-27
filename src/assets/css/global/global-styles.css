@@ -96,7 +96,7 @@ main:focus {
   outline: none;
 }
 
-article [href^='http']:not([href*='eleventy-excellent.netlify.app'])::after {
+article [href^='http']:not([href*='afrania.de'])::after {
   display: inline-block;
   width: 1em;
   height: 1em;
@@ -105,7 +105,7 @@ article [href^='http']:not([href*='eleventy-excellent.netlify.app'])::after {
   background-position: center;
   background-size: 60% auto;
   /* alternative text rules */
-  content: '(external link)';
+  content: '(Externer Link)';
   overflow: hidden;
   white-space: nowrap;
   text-indent: 1em; /* the width of the icon */

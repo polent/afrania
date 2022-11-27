@@ -8,4 +8,4 @@ This starter uses Eleventy's build-time image transformations. Fond more info on
 
 ## Image with caption
 
-{% imagePlaceholder "./src/assets/images/opengraph-default.jpg", "Alt... The preview image for social media", "Caption.. An interesting caption." %}
+{% imagePlaceholder "./src/assets/images/wappen.png", "Alt... The preview image for social media", "Caption.. An interesting caption." %}

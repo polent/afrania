@@ -1,13 +1,11 @@
 ---
-title: Legal notice
+title: Impressum
 seo:
-  title: Legal notice
+  title: Impressum der Afrania
 permalink: /imprint/index.html
-description: Imprint infos
+description: Alle Infos zu Afrania
 layout: page
 ---
-
-Edit your details in `_data/meta.js`
 
 {{ meta.address.firma }}
 {{ meta.address.street }}

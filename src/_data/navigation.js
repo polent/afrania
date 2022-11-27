@@ -1,22 +1,18 @@
 module.exports = {
-  top: [
-    {
-      text: 'About',
-      url: '/about/'
-    },
-    {
-      text: 'Blog',
-      url: '/blog/'
-    }
-  ],
-  bottom: [
-    {
-      text: 'Imprint',
-      url: '/imprint/'
-    },
-    {
-      text: 'Privacy',
-      url: '/privacy/'
-    }
-  ]
+	top: [
+		{
+			text: "Über",
+			url: "/ueber/",
+		},
+		{
+			text: "Zimmer",
+			url: "/zimmer/",
+		},
+	],
+	bottom: [
+		{
+			text: "Impressum",
+			url: "/impressum/",
+		},
+	],
 };

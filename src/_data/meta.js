@@ -20,14 +20,6 @@ module.exports = {
 		twitterCreator: "",
 		mastodonProfile: "", // i.e. https://front-end.social/@lene - url to your mastodon instance/profile
 	},
-	blog: {
-		// this is for the rss feed
-		name: "Afrania",
-		description: "",
-	},
-	pagination: {
-		itemsPerPage: 20,
-	},
 	address: {
 		// edit all presets or leave empty. They are being used in the pages for privacy.md and imprint.md
 		firma: "Landsmannschaft Afrania",

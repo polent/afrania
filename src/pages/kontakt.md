@@ -9,7 +9,7 @@ layout: page
 
 ## Bei Fragen finden Sie hier was Sie suchen
 
-Afrania möchte Ihnen helfen all die Information zu finden die Sie auf diesen Webseiten versuchen zu finden. Unsere Webseite ist dazu da zu informieren und zu vermitteln. Sollte Ihnen irgend etwas fehlen, oder Sie kommen nicht weiter, so nehmen Sie einfach mit uns Kontakt auf und wir helfen Ihnen.
+Afrania möchte Ihnen helfen all die Information zu finden die Sie auf diesen Webseiten versuchen zu finden. Unsere Webseite ist dazu da zu informieren und zu vermitteln. Sollte Ihnen irgend etwas fehlen, oder Sie kommen nicht weiter, so nehmen Sie einfach mit uns via [{{ meta.address.email }}](mailto:{{ meta.address.email }}) oder [{{ meta.address.mobileDisplay }}](tel:{{ meta.address.mobileCall }}) Kontakt auf und wir helfen Ihnen.
 
 ## Sie suchen einen Afraner?
 

@@ -11,7 +11,7 @@ layout: page
 
 Wählen Sie einen Buchstaben und kehren Sie von dort immer wieder mit dem "nach oben" Verweis hierher zurück.
 
-<nav class="glossar"><a href="#a">A</a><a href="#b">B</a><a href="#c">C</a><a href="#d">D</a><a href="#e">E</a><a href="#f">F</a><a href="#g">G</a><a href="#h">H</a><a href="#i">I</a><a href="#k">K</a><a href="#l">L</a><a href="#m">M</a><a href="#p">P</a><a href="#r">R</a><a href="#s">S</a><a href="#t">T</a><a href="#v">V</a><a href="#z">Z</a></nav>
+[A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [K](#k) [L](#l) [M](#m) [P](#p) [R](#r) [S](#s) [T](#t) [V](#v) [Z](#z)
 
 ### A
 

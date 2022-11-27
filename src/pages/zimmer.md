@@ -13,4 +13,4 @@ Die Villa Lobstein, wurde Ende des 19. Jahrhunderts im Neu-Renaissancestil erbau
 
 Regelmäßig leben bis zu 10 Studenten auf dem Haus. Zusätzlich wohnt im Obergeschoss noch ein Hausmeisterehepaar, welches das Abendessen zubereitet und für Getränke sorgt. Das Haus und die Zimmer werden regelmäßig sauber gehalten.
 
-Der Studenentwohnheim Sachsen e.V. bietet Studenten die Möglichkeit, Zimmer zu mieten. Die großen Zimmer sind möbliert, haben alle Telefonanschluß und Internetzugang. Rufen Sie uns an: [{{ meta.address.mobileDisplay }}](tel:{{ meta.address.mobileCall }}) oder schreiben sie eine E-Mail [{{ meta.authorEmail }}](mailto:{{ meta.authorEmail }}).
+Der Studenentwohnheim Sachsen e.V. bietet Studenten die Möglichkeit, Zimmer zu mieten. Die großen Zimmer sind möbliert, haben alle Telefonanschluß und Internetzugang. Rufen Sie uns an: [{{ meta.address.mobileDisplay }}](tel:{{ meta.address.mobileCall }}) oder schreiben sie eine E-Mail [{{ meta.address.email }}](mailto:{{ meta.address.email }}).

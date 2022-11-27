@@ -16,7 +16,7 @@ layout: page
 {{ meta.address.zip }}, {{ meta.address.city }}
 
 Tel: [{{ meta.address.mobileDisplay }}](tel:{{ meta.address.mobileCall }})
-Mail: [{{ meta.authorEmail }}](mailto:{{ meta.authorEmail }})
+E-Mail: [{{ meta.address.email }}](mailto:{{ meta.address.email }})
 
 ### Vertretungsberechtigter Vorstand
 

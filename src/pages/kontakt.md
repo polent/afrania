@@ -15,4 +15,4 @@ Afrania möchte Ihnen helfen all die Information zu finden die Sie auf diesen We
 
 Sollten Sie aus Studienzeiten einen Bundesbruder suchen der bei Afrania aktiv war, oder einfach die E-Mail-Adresse eines Afraners vergessen haben, so können sie dies über die E-Mail-Adresse der Aktiven erfragen.
 
-Mail: [{{ meta.authorEmail }}](mailto:{{ meta.authorEmail }})
+E-Mail: [{{ meta.address.email }}](mailto:{{ meta.address.email }})

@@ -96,6 +96,10 @@ main:focus {
   outline: none;
 }
 
+main {
+  border-top: 4px solid var(--color-primary);
+}
+
 article [href^='http']:not([href*='afrania.de'])::after {
   display: inline-block;
   width: 1em;

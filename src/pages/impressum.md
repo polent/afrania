@@ -18,7 +18,7 @@ layout: page
 Tel: <a href="tel:{{ meta.address.mobileCall }}">{{ meta.address.mobileDisplay }}</a>
 Mail: <a href="mailto:{{ meta.address.email }}">{{ meta.address.email }}</a>
 
-### Vertretungsberechtigter Vorstand:
+### Vertretungsberechtigter Vorstand
 
 Dr. Michael Schellenberger
 Am Müllenberg 1
@@ -34,7 +34,7 @@ E-Mail: <a href="mailto:{{ meta.authorEmail }}">{{ meta.authorEmail }}</a>
 
 Sollten Sie Beanstandungen an Inhalten der Webseite haben, so teilen Sie das dem Webmaster mit.
 
-### Datenschutzhinweise:
+### Datenschutzhinweise
 
 Afrania selbst setzt keine Cookies, welche Informationen auf Ihrem Rechner hinterlassen, wir benötigen für ein paar Funktionalitäten einen Sessioncookie, der aber beim Verlassen der Seite seine Gültigkeit verliert.
 

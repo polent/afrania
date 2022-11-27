@@ -1,0 +1,18 @@
+.logo figure {
+  max-width: 50%;
+}
+.logo span {
+  max-width: 50%;
+  display: block;
+  position: absolute;
+  left: -100%;
+}
+
+@media (min-width: 28em) {
+  .logo figure {
+    max-width: 20rem;
+  }
+  .logo span {
+    display: none;
+  }
+}

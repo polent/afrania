@@ -2,10 +2,12 @@
 
 <header class="wrapper | relative" role="banner">
   <div class="sidebar | ontop spot-color-primary">
-    <a href="/" class="logo | no-underline">      
-      {{ meta.siteName }}
-    </a>
-
+    <div>  
+      <a href="/" class="logo | no-underline">
+        <span>{{ meta.siteName }}</span>
+        {% imagePlaceholder "./src/assets/images/wappen.png", "Das Wappen der Landsmannshcaft Afrania" %}
+      </a>
+    </div>
     {% include "partials/menu.njk" %}
   </div>
 </header>

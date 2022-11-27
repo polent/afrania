@@ -42,10 +42,8 @@ const imageShortcodePlaceholder = async (src, alt, caption, sizes = '100vw') => 
       })
       .join('\n')}
       <img
-        src="/assets/images/image-placeholder.png"
+        src="/assets/images/placeholder.png"
         data-src="${lowsrc.url}"
-        width="${lowsrc.width}"
-        height="${lowsrc.height}"
         alt="${alt}"
 				loading = 'lazy'
         decoding="async">

@@ -1,8 +1,6 @@
 .logo {
   font-weight: bold;
   text-transform: uppercase;
-
-  display: flex;
   align-items: center;
   gap: var(--space-xs);
   letter-spacing: -0.08rem;
@@ -44,9 +42,6 @@ nav.navbar {
 nav.navbar ul {
   background: var(--nav-list-background, var(--color-light));
   box-shadow: var(--nav-list-shadow, -5px 0 11px 0 rgb(0 0 0 / 0.2));
-  display: flex;
-  flex-direction: var(--nav-list-layout, column);
-  flex-wrap: wrap;
   gap: 0.9rem;
   height: var(--nav-list-height, 100vh);
   list-style: none;

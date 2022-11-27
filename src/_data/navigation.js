@@ -5,6 +5,10 @@ module.exports = {
 			url: "/ueber/",
 		},
 		{
+			text: "Mensur",
+			url: "/mensur/",
+		},
+		{
 			text: "Zimmer",
 			url: "/zimmer/",
 		},
@@ -16,6 +20,10 @@ module.exports = {
 			text: "Kontakt",
 			url: "/kontakt/",
 		},
+		{
+			text: "Anfahrt",
+			url: "/anfahrt/",
+		},
 	],
 	bottom: [
 		{
@@ -25,6 +33,14 @@ module.exports = {
 		{
 			text: "Links",
 			url: "/links/",
+		},
+		{
+			text: "Glossar",
+			url: "/glossar/",
+		},
+		{
+			text: "Treubund",
+			url: "/treubund/",
 		},
 	],
 };

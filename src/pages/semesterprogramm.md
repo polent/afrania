@@ -7,6 +7,8 @@ description: Semesteraktivitäten bei Afrania. Hier finden Sie unser Semsterprog
 layout: page
 ---
 
+{% imagePlaceholder "./src/assets/images/afrania.jpg", "Farben und Wappen der Afrania" %}
+
 ## Hier finden Sie unser Semsterprogramm
 
 Bei Besuchen auf dem Haus und zu Veranstaltungen bitte vorher Rücksprache mit den Aktiven halten.

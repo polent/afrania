@@ -7,3 +7,14 @@
   padding-top: var(--region-space-top, var(--space-l-2xl));
   padding-bottom: var(--region-space-bottom, var(--space-l-2xl));
 }
+
+.region .glossar dt {
+  font-weight: bold;
+  margin-top: 0.5rem;
+}
+.region .glossar dd {
+  padding-left: 1rem;
+}
+.region nav.glossar {
+  text-align: center;
+}

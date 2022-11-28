@@ -1,6 +1,6 @@
 # Landsmannschaft Afrania
 
-Open Sourced Code Base for Afrania.de
+Open Sourced Code Base for https://www.afrania.de
 
 Based on and forked from https://github.com/madrilene/eleventy-excellent
 

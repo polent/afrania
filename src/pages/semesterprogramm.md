@@ -13,10 +13,6 @@ layout: page
 
 Bei Besuchen auf dem Haus und zu Veranstaltungen bitte vorher Rücksprache mit den Aktiven halten.
 
-\* Damen sind herzlich eingeladen
-\*\* Gesonderte Einladung erforderlich
-\*\*\* Bundesinterne Veranstaltung
-
 ### Semesterprogramm
 
 [Download aktuelles Semesterprogramm (PDF Datei ca. 1,3MB)](/assets/downloads/Semesterprogramm_Afrania.pdf)

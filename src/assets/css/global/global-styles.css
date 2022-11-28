@@ -20,6 +20,7 @@ h3 {
   line-height: 1;
   letter-spacing: var(--tracking-s);
   font-family: var(--font-display);
+  hyphens: auto;
 }
 
 h1 {

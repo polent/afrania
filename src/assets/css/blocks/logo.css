@@ -1,5 +1,8 @@
-.logo figure {
-  max-width: 50%;
+.logo img {
+  max-width: 400px;
+  max-height: 400px;
+  width: 250px;
+  height: auto;
 }
 .logo span {
   max-width: 50%;
@@ -8,9 +11,9 @@
   left: -300%;
 }
 
-@media (min-width: 28em) {
-  .logo figure {
-    max-width: 20rem;
+@media (min-width: 30em) {
+  .logo img {
+    width: auto;
   }
   .logo span {
     display: none;

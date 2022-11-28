@@ -44,6 +44,8 @@ const imageShortcodePlaceholder = async (src, alt, caption, sizes = '100vw') => 
       <img
         src="/assets/images/placeholder.png"
         data-src="${lowsrc.url}"
+        width="${lowsrc.width}"
+        height="${lowsrc.height}"
         alt="${alt}"
 				loading = 'lazy'
         decoding="async">

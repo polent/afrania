@@ -2,6 +2,9 @@
   --flow-space: var(--space-m-l);
   --wrapper-max-width: 55rem;
 }
+.prose h1 {
+  hyphens: auto;
+}
 
 .prose :is(h2, h3, h4) + * {
   --flow-space: var(--space-s-m);

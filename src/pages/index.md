@@ -1,9 +1,9 @@
 ---
 permalink: /index.html
 seo:
-  description: Die Homepage unserer lieben Afrania
+  description: Die Homepage unserer lieben Landsmannschaft Afrania im CC
 title: 'Willkommen bei der Landsmannschaft Afrania'
-description: 'Die Homepage unserer lieben Afrania'
+description: 'Die Homepage unserer lieben Landsmannschaft Afrania im CC'
 layout: 'home'
 ---
 

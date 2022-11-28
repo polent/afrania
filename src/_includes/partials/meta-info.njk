@@ -6,14 +6,7 @@
 
 <meta
   name="description"
-  content="
-  {% if seo.description %} {{ seo.description }}
-  {% elif description %}
-  {{ description }}
-  {% else %}
-  {{ meta.siteDescription }}
-  {% endif %}
-  "
+  content="{% if seo.description %} {{ seo.description }} {% elif description %} {{ description }} {% else %} {{ meta.siteDescription }} {% endif %} "
 />
 
 <meta name="robots" content="index,follow" /><!-- All Search Engines -->

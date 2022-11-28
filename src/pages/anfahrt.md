@@ -1,9 +1,9 @@
 ---
-title: So kommen Sie zur Landsmannschaft Afrania
+title: So kommen Sie zur Landsmannschaft Afrania im CC
 seo:
-  description: Wegbeschreibung zur Landsmannschaft Afrania
+  description: Wegbeschreibung zur Landsmannschaft Afrania im CC
 permalink: /anfahrt/index.html
-description: Wegbeschreibung zur Landsmannschaft Afrania
+description: Wegbeschreibung zur Landsmannschaft Afrania im CC
 layout: page
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: Impressum
 seo:
-  description: Impressum der Afrania
+  description: Impressum der Landsmannschaft Afrania im CC
 permalink: /impressum/index.html
-description: Alle Infos zu Afrania
+description: Alle Infos zu Landsmannschaft Afrania im CC
 layout: page
 ---
 

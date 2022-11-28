@@ -3,8 +3,9 @@ const packageObj = require("../../package.json");
 module.exports = {
 	pkv: packageObj.version || "v1",
 	url: process.env.URL || "https://www.afrania.de",
-	siteName: "Landsmannschaft Afrania im CC zu Heidelberg",
-	siteDescription: "Webpage meiner lieben Afrania zu Heidelberg",
+	siteName: "Alte Leipziger Landsmannschaft Afrania im CC zu Heidelberg",
+	siteDescription:
+		"Der Internetauftritt der Alte Leipziger Landsmannschaft Afrania im CC zu Heidelberg",
 	siteType: "Organisation", // schema
 	locale: "de_DE",
 	lang: "de",

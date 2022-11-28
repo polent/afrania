@@ -1,9 +1,9 @@
 ---
 title: Wie Sie uns kontaktieren können
 seo:
-  description: Bei Fragen finden Sie hier was Sie suchen
+  description: Bei offen Fragen finden Sie hier was Sie suchen
 permalink: /kontakt/index.html
-description: Bei Fragen finden Sie hier was Sie suchen
+description: Bei offenen Fragen finden Sie hier was Sie suchen
 layout: page
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: So kommen Sie zur Landsmannschaft Afrania im CC
+title: Anfahrt zu Afrania
 seo:
-  description: Wegbeschreibung zur Landsmannschaft Afrania im CC
+  description: So kommen Sie am schnellsten zur Alten Leipziger Landsmannschaft Afrania im CC
 permalink: /anfahrt/index.html
 description: Wegbeschreibung zur Landsmannschaft Afrania im CC
 layout: page

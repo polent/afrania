@@ -13,7 +13,7 @@ Diese Homepage soll Ihnen Informationen zur Alten Leipziger Landsmannschaft Afra
 
 Vollständig wird Sie diese Seite natürlich nie über das Verbindungsleben informieren können. Sie wird aber vielleicht helfen ein paar Vorurteile abzubauen.
 
-Sollten Sie als Student auf der Suche nach einem Zimmer oder einer Wohnung in Heidelberg hierher gelangt sein, so können Sie sich [auf den Kontaktseiten](/kontakt/) mit uns in Verbindung setzen.
+Sollten Sie als Student auf der Suche nach einem [Zimmer](/zimmer/) oder einer Wohnung in Heidelberg hierher gelangt sein, so können Sie sich [auf den Kontaktseiten](/kontakt/) mit uns in Verbindung setzen.
 
 Afrania lebt und gedeiht seit 1839 nach dem Wahlspruch:
 

@@ -13,7 +13,7 @@ Nach Heidelberg und damit auch zu Afrania, kommt man am besten über die Autobah
 
 Von da ab folgt man der Beschilderung "Schloß/Altstadt", da das Afranerhaus direkt am oberen Schloßeingang liegt. (Parkplatz am Haus)
 
-### Aus der Stadt
+### Aus der Stadt / zu Fuß
 
 Aus der Altstadt kann man mit der Bergbahn zum Afranerhaus gelangen, man erspart sich dadurch 314 wadenstärkende Stufen.
 Hausadresse:

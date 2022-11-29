@@ -1,13 +1,13 @@
 ---
 title: Weiterführendes zu Afrania
 seo:
-  description: Die alte Leipziger Landsmannschaft im CC im Internet
+  description: Links die Afrania, das Verbindungsleben oder dieses Webangebot betreffen
 permalink: /links/index.html
 description: Die alte Leipziger Landsmannschaft im CC im Internet
 layout: page
 ---
 
-## Links die Afrania, das Verbindungsleben oder dieses Webangebot betreffen
+## Afrania im Internet
 
 ### Verbindungslinks
 

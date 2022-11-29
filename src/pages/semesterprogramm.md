@@ -1,7 +1,7 @@
 ---
 title: Unser Semesterprogramm
 seo:
-  description: Semesteraktivitäten bei Afrania. Hier finden Sie unser Semsterprogramm
+  description: Semesteraktivitäten bei Afrania. Sie sind eingeladen
 permalink: /semesterprogramm/index.html
 description: Semesteraktivitäten der alten Leipziger Landsmannschaft Afrania im CC. Hier finden Sie unser Semsterprogramm
 layout: page

@@ -1,5 +1,5 @@
 ---
-title: Anfahrt zu Afrania
+title: Anfahrt
 seo:
   description: So kommen Sie am schnellsten zur Alten Leipziger Landsmannschaft Afrania im CC
 permalink: /anfahrt/index.html
@@ -7,7 +7,7 @@ description: Wegbeschreibung zur Landsmannschaft Afrania im CC
 layout: page
 ---
 
-## So finden Sie uns am schnellsten
+## So finden Sie Afrania am schnellsten
 
 Nach Heidelberg und damit auch zu Afrania, kommt man am besten über die Autobahn A5, Abfahrt am Heidelberger Kreuz, Richtung Heidelberg.
 

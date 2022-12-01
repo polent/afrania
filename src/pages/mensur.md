@@ -9,7 +9,7 @@ layout: page
 
 ## Afrania als Landsmannschaft im CC pflegt die Bestimmungsmensur
 
-{% imagePlaceholder "./src/assets/images/schlaeger.jpg", "Ein Mensurschläger und Paukbriller" %}
+{% imagePlaceholder "./src/assets/images/schlaeger.jpg", "Ein Mensurschläger und Paukbrille" %}
 
 ### Bei Afrania muß jedes Mitglied drei Bestimmungsmensuren fechten
 

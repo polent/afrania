@@ -7,7 +7,7 @@ description: Die alte Leipziger Landsmannschaft Afrania ist eine Studentenverbin
 layout: page
 ---
 
-{% imagePlaceholder "./src/assets/images/halle.jpg", "Blick in unsere Halle" %}
+{% imagePlaceholder "./src/assets/images/halle.jpg", "Blick von oben in unsere Halle" %}
 
 ## Was sind wir?
 

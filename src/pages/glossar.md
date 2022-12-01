@@ -9,7 +9,7 @@ layout: page
 
 Falls Sie Fragen zu auf diesem Internetauftritt verwendeten Begriffen haben, finden Sie hier Antworten
 
-Wählen Sie einen Buchstaben und kehren Sie von dort immer wieder mit dem "nach oben" Verweis hierher zurück.
+Wählen Sie einen Buchstaben und kehren Sie von dort immer wieder mit der "Zurück" Schaltfläche Ihres Browsers an den Anfang zurück.
 
 [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [K](#k) [L](#l) [M](#m) [P](#p) [R](#r) [S](#s) [T](#t) [V](#v) [Z](#z)
 

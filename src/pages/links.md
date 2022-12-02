@@ -9,6 +9,10 @@ layout: page
 
 ## Afrania im Internet
 
+### Das Studentenwohnheim
+
+- [Das Studenentwohnheim Sachsen e.V.](http://www.afraner.info)
+
 ### Verbindungslinks
 
 - [Kyklos](http://www.kyklos-schiers.org/)
@@ -36,4 +40,4 @@ layout: page
 
 ### Technik und Realisation
 
-- Technik und Realisation [Holger Hellinger](http://www.holger-hellinger.de/)
+- [Holger Hellinger](http://www.holger-hellinger.de/)

@@ -11,7 +11,7 @@ layout: page
 
 {% imagePlaceholder "./src/assets/images/schlaeger.jpg", "Ein Mensurschläger und Paukbrille" %}
 
-### Bei Afrania muß jedes Mitglied drei Bestimmungsmensuren fechten
+### Bei Afrania muß jedes Mitglied vier Bestimmungsmensuren fechten
 
 Bestimmungsmensur bedeutet, dass zwei Gegner (Paukanten) nach Stärke und Geschwindigkeit ausgesucht werden, damit immer gleich starke Gegner aufeinandertreffen. Die Mensur (Partie) wird mit einer anderen Verbindung vereinbart und ist kein Duell. Der Zweitchargierte (siehe Charge) bestimmt dabei in Absprache mit der anderen Verbindung den Gegenpaukanten. Es werden nur Partien mit anderen Verbindungen geschlagen, nie in der eigenen Verbindung.
 

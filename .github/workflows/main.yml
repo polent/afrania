@@ -8,10 +8,10 @@ jobs:
       - name: 🚚 Get latest code
         uses: actions/checkout@v3
 
-      - name: Use Node.js 16
+      - name: Use Node.js 18
         uses: actions/setup-node@v2
         with:
-          node-version: '16'
+          node-version: '18'
 
       - name: 🔨 Build Project
         run: |
@@ -24,3 +24,5 @@ jobs:
           server: home93032023.1and1-data.host
           username: $AFRANIA_USER
           password: ${{ secrets.AFRANIA_PASSWORD }}
+          protocol: ftps
+          local-dir: ./dist/

@@ -21,7 +21,7 @@ jobs:
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
-          server: home93032023.1and1-data.host
+          server: $AFRANIA_FTP
           username: $AFRANIA_USER
           password: ${{ secrets.AFRANIA_PASSWORD }}
           protocol: ftps

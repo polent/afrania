@@ -26,3 +26,4 @@ jobs:
           password: ${{ secrets.AFRANIA_PASSWORD }}
           protocol: ftps
           local-dir: ./dist/
+          port: 22

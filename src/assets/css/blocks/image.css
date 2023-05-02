@@ -1,0 +1,4 @@
+main img {
+  object-fit: cover;
+  aspect-ratio: auto 3/4;
+}

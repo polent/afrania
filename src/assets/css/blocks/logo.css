@@ -3,6 +3,8 @@
   max-height: 400px;
   width: 250px;
   height: auto;
+  object-fit: contain;
+  aspect-ratio: auto 1/1;
 }
 .logo span {
   max-width: 50%;

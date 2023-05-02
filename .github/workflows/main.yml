@@ -22,5 +22,5 @@ jobs:
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
           server: home93032023.1and1-data.host
-          username: ${{ secrets.AFRANIA_USER }}
+          username: $AFRANIA_USER
           password: ${{ secrets.AFRANIA_PASSWORD }}

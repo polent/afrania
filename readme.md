@@ -23,14 +23,6 @@ Open Sourced Code Base for https://www.afrania.de
 - Links to social networks in footer
 - Mastodon domain verification snippet
 
-## First steps
-
-- **Important:** edit meta data in `src/_data/meta.js`, it's being used all over the template.
-- Search for 'eleventy-excellent.netlify.app'. You'll find an entry in `src/assets/css/global/global-styles.css`. Replace with your own domain.
-- Edit your social media in `src/_data/social.js` and `src/_includes/icons`. If you add new icons they must be prefixed with "social-". By default you have rss, mastodon, twitter, ko-fi, linkedin and github. Great resource: https://lucide.dev/
-- Edit your preferences (colors, fluid text sizes etc.) in `src/assets/css/design-tokens`.
-- Optional: set your (favicon) icons in `src/assets/images/favicon`.
-
 ## Development
 
 ### Install dependencies

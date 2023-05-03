@@ -21,9 +21,9 @@ jobs:
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
-          server: home93032023.1and1-data.host
-          username: u2056421850
+          server: ${{ secrets.AFRANIA_SFTP }}
+          username: ${{ secrets.AFRANIA_USER }}
           password: ${{ secrets.AFRANIA_PASSWORD }}
-          protocol: ftps
+          protocol: SFTP
           local-dir: ./dist/
           port: 22

@@ -27,4 +27,3 @@ jobs:
           private-ssh-key: ${{ secrets.AFRANIA_KEY }}
           destination-path: ~/afrania/
           source-path: ./dist/
-          rsync-options: --dry-run

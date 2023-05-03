@@ -1,5 +1,5 @@
 on: push
-name: 🚀 Deploy website on push
+name: 🚀 Deploy Afrania on push
 jobs:
   web-deploy:
     name: 🎉 Deploy
@@ -12,17 +12,19 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '18'
+          cache: 'npm'
 
       - name: 🔨 Build Project
         run: |
           npm install
           npm run build
 
-      - name: 📂 Sync files
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+      - name: 📂 Sync Files
+        uses: SamKirkland/web-deploy@v1
         with:
-          server: ${{ secrets.AFRANIA_SFTP }}
-          username: ${{ secrets.AFRANIA_USER }}
-          password: ${{ secrets.AFRANIA_PASSWORD }}
-          protocol: ftps
-          local-dir: ./dist/
+          target-server: ${{ secrets.AFRANIA_SSH }}
+          remote-user: ${{ secrets.AFRANIA_USER }}
+          private-ssh-key: ${{ secrets.AFRANIA_KEY }}
+          destination-path: ~/afrania/
+          source-path: ./dist/
+          rsync-options: --dry-run

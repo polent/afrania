@@ -24,6 +24,5 @@ jobs:
           server: ${{ secrets.AFRANIA_SFTP }}
           username: ${{ secrets.AFRANIA_USER }}
           password: ${{ secrets.AFRANIA_PASSWORD }}
-          protocol: ftps-legacy
+          protocol: ftps
           local-dir: ./dist/
-          port: 22

@@ -3,8 +3,12 @@ name: 🚀 Deploy Afrania on push
 jobs:
   web-deploy:
     name: 🎉 Deploy
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
+      - name: Install rsync
+        run: |
+          sudo apt-get update
+          sudo apt-get install rsync
       - name: 🚚 Get latest code
         uses: actions/checkout@v3
 

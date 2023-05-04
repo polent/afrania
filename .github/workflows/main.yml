@@ -5,6 +5,10 @@ jobs:
     name: 🎉 Deploy
     runs-on: ubuntu-latest
     steps:
+      - name: Install rsync
+        run: |
+          sudo apt-get update
+          sudo apt-get install rsync
       - name: 🚚 Get latest code
         uses: actions/checkout@v3
 

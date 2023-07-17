@@ -1,7 +1,7 @@
 ---
 title: Anfahrt
 seo:
-  description: So kommen Sie am schnellsten zur Alten Leipziger Landsmannschaft Afrania im CC
+  description: So gelangen Sie am schnellsten zur Alten Leipziger Landsmannschaft Afrania im CC
 permalink: /anfahrt/index.html
 description: Wegbeschreibung zur Landsmannschaft Afrania im CC
 layout: page
@@ -9,13 +9,13 @@ layout: page
 
 ## So finden Sie Afrania am schnellsten
 
-Nach Heidelberg und damit auch zu Afrania, kommt man am besten über die Autobahn A5, Abfahrt am Heidelberger Kreuz, Richtung Heidelberg.
+Um nach Heidelberg und zur Landsmannschaft Afrania zu gelangen, empfiehlt es sich, die Autobahn A5 zu nehmen und am Heidelberger Kreuz abzufahren, in Richtung Heidelberg.
 
-Von da ab folgt man der Beschilderung "Schloß/Altstadt", da das Afranerhaus direkt am oberen Schloßeingang liegt. (Parkplatz am Haus)
+Von dort aus folgen Sie den Schildern "Schloss/Altstadt", da sich das Afrania-Haus direkt am oberen Schlosseingang befindet. (Parkplatz am Haus)
 
 ### Aus der Stadt / zu Fuß
 
-Aus der Altstadt kann man mit der Bergbahn zum Afranerhaus gelangen, man erspart sich dadurch 314 wadenstärkende Stufen.
+Von der Altstadt aus können Sie mit der Bergbahn zum Afrania-Haus gelangen und dabei 314 anstrengende Treppenstufen vermeiden.
 Hausadresse:
 
 ### Adresse

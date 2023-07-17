@@ -1,7 +1,7 @@
 ---
 permalink: /index.html
 seo:
-  description: Willkommen auf der innovativen Plattform der ehrwürdigen Landsmannschaft Afrania im CC
+  description: Willkommen auf der innovativen Plattform der alten Leipziger Landsmannschaft Afrania im CC
 title: 'Herzlich willkommen in der digitalen Welt der Landsmannschaft Afrania'
 description: 'Der digitale Treffpunkt unserer verehrten Landsmannschaft Afrania im CC'
 layout: 'home'

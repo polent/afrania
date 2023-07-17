@@ -1,9 +1,9 @@
 ---
 title: Über Afrania
 seo:
-  description: Die alte Studentenverbindung Afrania in Leipzig ist eine Studentenverbindung.
+  description: Die alte Leipziger Landsmannschaft Afrania eine Studentenverbindung.
 permalink: /ueber/index.html
-description: Die alte Studentenverbindung Afrania ist eine Studentenverbindung.
+description: Die alte Leipziger Landsmannschaft Afrania ist eine Studentenverbindung.
 layout: page
 ---
 
@@ -21,7 +21,7 @@ Nach dem Verbot während des Nationalsozialismus sowie später in der DDR fand A
 
 Auf den folgenden Seiten erhalten Sie alle Informationen, die Sie über Afrania benötigen. Wir informieren Sie genauer über die Geschichte Afranias, über die Mensur und das Leben der jungen Bundesbrüder im Haus. Im Semesterplan können Sie Informationen zu den aktuellen Veranstaltungen finden. Falls Sie Interesse haben, ein Zimmer in unserem Haus zu mieten, können Sie weitere Informationen unter dem [Stichwort Zimmer](/zimmer/) erhalten.
 
-### Die Leipziger Studentenverbindung Afrania ist eine Studentenverbindung.
+### Die alte Leipziger Landsmannschaft Afrania ist eine Studentenverbindung.
 
 Studierende aus allen Fachrichtungen finden den Weg zu Afrania während ihrer ersten Semester und bleiben ein Leben lang Mitglied. Die Afraner treffen sich zu regelmäßigen Veranstaltungen und pflegen den Austausch über Generationsgrenzen hinweg. Afrania ist politisch, weltanschaulich und religiös ungebunden.
 

@@ -2,8 +2,6 @@
 
 Open Sourced Code Base for https://www.afrania.de
 
-[<img alt="Deployed with web deploy" src="https://img.shields.io/badge/Deployed With-web deploy-%3CCOLOR%3E?style=for-the-badge&color=0077b6">](https://github.com/SamKirkland/web-deploy)
-
 ## Features
 
 **This starter includes:**

@@ -1,9 +1,9 @@
 ---
 title: Zimmer zu vermieten
 seo:
-  description: Zimmer für Studierende. Tolle Aussicht und wunderschöne Umgebung!
+  description: Die Alte Leipziger Landsmannschaft Afrania bietet möblierte Zimmer für Studierende in Heidelberg in der Villa Lobstein. Das Haus bietet historischen Charme, regelmäßige Reinigung, Internetzugang und liegt in der Nähe des Schlosses mit Blick auf das Neckartal​
 permalink: /zimmer/index.html
-description: Zimmer für Studierende. Tolle Aussicht und wunderschöne Umgebung!
+description: Die Alte Leipziger Landsmannschaft Afrania bietet möblierte Zimmer für Studierende in Heidelberg in der Villa Lobstein. Das Haus bietet historischen Charme, regelmäßige Reinigung, Internetzugang und liegt in der Nähe des Schlosses mit Blick auf das Neckartal​
 layout: page
 ---
 

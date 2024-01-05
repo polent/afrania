@@ -1,9 +1,9 @@
 ---
 title: Glossar studentischer Begriffe
 seo:
-  description: Falls Sie Fragen zu auf diesem Internetauftritt verwendeten Begriffen haben, finden Sie hier Antworten
+  description: Die Glossar-Seite der Alten Leipziger Landsmannschaft Afrania bietet ein umfassendes Verzeichnis studentischer Begriffe, die im Zusammenhang mit Studentenverbindungen stehen. Sie erklärt traditionelle Ausdrücke und Praktiken, um Besuchern ein besseres Verständnis des Verbindungslebens zu ermöglichen. Die Seite ist eine nützliche Ressource für alle, die sich für die Geschichte und Kultur deutscher Studentenverbindungen interessieren​
 permalink: /glossar/index.html
-description: Falls Sie Fragen zu auf diesem Internetauftritt verwendeten Begriffen haben, finden Sie hier Antworten
+description: Die Glossar-Seite der Alten Leipziger Landsmannschaft Afrania bietet ein umfassendes Verzeichnis studentischer Begriffe, die im Zusammenhang mit Studentenverbindungen stehen. Sie erklärt traditionelle Ausdrücke und Praktiken, um Besuchern ein besseres Verständnis des Verbindungslebens zu ermöglichen. Die Seite ist eine nützliche Ressource für alle, die sich für die Geschichte und Kultur deutscher Studentenverbindungen interessieren​
 layout: page
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: Die Mensur der Landsmannschaft Afrania
 seo:
-  description: Afrania als Landsmannschaft im CC pflegt die Bestimmungsmensur
+  description: Die Seite der Alten Leipziger Landsmannschaft Afrania erklärt die Tradition der Bestimmungsmensur in Heidelberg. Sie beschreibt, wie Mitglieder in fairen Kämpfen mit traditionellen Waffen gegeneinander antreten, die Geschichte des Fechtens unter Studenten und die Bedeutung der Mensur für die Verbindungskultur. Die Seite betont die Sicherheitsaspekte und Formalitäten dieser Tradition​
 permalink: /mensur/index.html
-description: Afrania als Landsmannschaft im CC pflegt die Bestimmungsmensur
+description: Die Seite der Alten Leipziger Landsmannschaft Afrania erklärt die Tradition der Bestimmungsmensur in Heidelberg. Sie beschreibt, wie Mitglieder in fairen Kämpfen mit traditionellen Waffen gegeneinander antreten, die Geschichte des Fechtens unter Studenten und die Bedeutung der Mensur für die Verbindungskultur. Die Seite betont die Sicherheitsaspekte und Formalitäten dieser Tradition​
 layout: page
 ---
 

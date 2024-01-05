@@ -1,9 +1,9 @@
 ---
 permalink: /index.html
 seo:
-  description: Willkommen auf der innovativen Plattform der alten Leipziger Landsmannschaft Afrania im CC
-title: 'Herzlich willkommen in der digitalen Welt der Landsmannschaft Afrania'
-description: 'Der digitale Treffpunkt unserer verehrten Landsmannschaft Afrania im CC'
+  description: Entdecken Sie die Alte Leipziger Landsmannschaft Afrania - Eine Gemeinschaft, die Einblicke in das Studentenleben und Verbindungen in Heidelberg bietet, mit Informationen zu Wohnraum, Programm und Kontaktmöglichkeiten.
+title: Herzlich willkommen in der digitalen Welt der Landsmannschaft Afrania
+description: Entdecken Sie die Alte Leipziger Landsmannschaft Afrania - Eine Gemeinschaft, die Einblicke in das Studentenleben und Verbindungen in Heidelberg bietet, mit Informationen zu Wohnraum, Programm und Kontaktmöglichkeiten.
 layout: 'home'
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: Wie Sie uns kontaktieren können
 seo:
-  description: Bei offenen Fragen finden Sie hier, wonach Sie suchen
+  description: Auf der Kontaktseite der Alten Leipziger Landsmannschaft Afrania finden Besucher alle notwendigen Informationen, um die Landsmannschaft per E-Mail oder Telefon zu kontaktieren. Die Seite bietet Unterstützung bei Fragen und verbindet Interessierte mit Mitgliedern der Gemeinschaft​
 permalink: /kontakt/index.html
-description: Bei offenen Fragen finden Sie hier, wonach Sie suchen
+description: Auf der Kontaktseite der Alten Leipziger Landsmannschaft Afrania finden Besucher alle notwendigen Informationen, um die Landsmannschaft per E-Mail oder Telefon zu kontaktieren. Die Seite bietet Unterstützung bei Fragen und verbindet Interessierte mit Mitgliedern der Gemeinschaft​
 layout: page
 ---
 

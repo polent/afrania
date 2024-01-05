@@ -1,9 +1,9 @@
 ---
 title: Der Treubund im CC
 seo:
-  description: Der Treubund ist ein Zusammenschluss von Landsmannschaften und einer Turnerschaft des Coburger Convents.
+  description: Die Seite beschreibt den Treubund der Alten Leipziger Landsmannschaft Afrania, einen Zusammenschluss verschiedener Landsmannschaften und Turnerschaften. Sie erläutert die Geschichte, die enge Freundschaft zwischen den Mitgliedsbünden und betont die Bedeutung der gemeinsamen Aktivitäten und Treffen für das Zusammengehörigkeitsgefühl und die Pflege von Traditionen innerhalb des Verbandes​
 permalink: /treubund/index.html
-description: Der Treubund ist ein Zusammenschluss von Landsmannschaften und einer Turnerschaft des Coburger Convents.
+description: Die Seite beschreibt den Treubund der Alten Leipziger Landsmannschaft Afrania, einen Zusammenschluss verschiedener Landsmannschaften und Turnerschaften. Sie erläutert die Geschichte, die enge Freundschaft zwischen den Mitgliedsbünden und betont die Bedeutung der gemeinsamen Aktivitäten und Treffen für das Zusammengehörigkeitsgefühl und die Pflege von Traditionen innerhalb des Verbandes​
 layout: page
 ---
 

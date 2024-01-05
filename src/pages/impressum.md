@@ -1,9 +1,9 @@
 ---
 title: Impressum
 seo:
-  description: Impressum der Landsmannschaft Afrania im CC
+  description: Das Impressum der Webseite der Alten Leipziger Landsmannschaft Afrania bietet Kontaktdaten des Betreibers und rechtliche Informationen. Verantwortlich für den Inhalt ist Dr. Michael Schellenberger, mit Angaben zu Adresse, Telefonnummer und E-Mail. Es wird auf die Haftung für externe Links hingewiesen und Datenschutzinformationen bezüglich der Nutzung von Cookies angeboten​
 permalink: /impressum/index.html
-description: Alle Infos zu Landsmannschaft Afrania im CC
+description: Das Impressum der Webseite der Alten Leipziger Landsmannschaft Afrania bietet Kontaktdaten des Betreibers und rechtliche Informationen. Verantwortlich für den Inhalt ist Dr. Michael Schellenberger, mit Angaben zu Adresse, Telefonnummer und E-Mail. Es wird auf die Haftung für externe Links hingewiesen und Datenschutzinformationen bezüglich der Nutzung von Cookies angeboten​
 layout: page
 ---
 

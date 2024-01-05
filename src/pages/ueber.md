@@ -1,9 +1,9 @@
 ---
 title: Über Afrania
 seo:
-  description: Die alte Leipziger Landsmannschaft Afrania eine Studentenverbindung.
+  description: Die Alte Leipziger Landsmannschaft Afrania in Heidelberg, gegründet 1839, bietet einen Überblick über ihre Geschichte, das Verbindungsleben, und die Bedeutung der Mensur. Die Webseite gibt Einblicke in die Mitgliedschaft, Veranstaltungen und das Leben im Verbindungshaus, dabei betont sie ihre Unabhängigkeit in politischen, weltanschaulichen und religiösen Angelegenheiten. Sie zeigt auch prominente Mitglieder und bietet Informationen zur Zimmervermietung an Studierende
 permalink: /ueber/index.html
-description: Die alte Leipziger Landsmannschaft Afrania ist eine Studentenverbindung.
+description: Die Alte Leipziger Landsmannschaft Afrania in Heidelberg, gegründet 1839, bietet einen Überblick über ihre Geschichte, das Verbindungsleben, und die Bedeutung der Mensur. Die Webseite gibt Einblicke in die Mitgliedschaft, Veranstaltungen und das Leben im Verbindungshaus, dabei betont sie ihre Unabhängigkeit in politischen, weltanschaulichen und religiösen Angelegenheiten. Sie zeigt auch prominente Mitglieder und bietet Informationen zur Zimmervermietung an Studierende
 layout: page
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: Weiterführendes zu Afrania
 seo:
-  description: Links die Afrania, das Verbindungsleben oder dieses Webangebot betreffen
+  description: Die Links-Seite der Alten Leipziger Landsmannschaft Afrania bietet eine Sammlung von Verweisen auf verbundene Organisationen, Social-Media-Präsenzen, studentisches Leben in Heidelberg und Leipzig, sowie technische Details der Website-Gestaltung durch Holger Hellinger​
 permalink: /links/index.html
-description: Die alte Leipziger Landsmannschaft im CC im Internet
+description: Die Links-Seite der Alten Leipziger Landsmannschaft Afrania bietet eine Sammlung von Verweisen auf verbundene Organisationen, Social-Media-Präsenzen, studentisches Leben in Heidelberg und Leipzig, sowie technische Details der Website-Gestaltung durch Holger Hellinger​
 layout: page
 ---
 

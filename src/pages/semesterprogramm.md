@@ -1,9 +1,9 @@
 ---
 title: Unser Semesterprogramm
 seo:
-  description: Semesteraktivitäten bei Afrania. Sie sind herzlich eingeladen.
+  description: Die Alte Leipziger Landsmannschaft Afrania stellt ihr aktuelles Semesterprogramm online bereit. Interessierte können das vielfältige Programm herunterladen, das Veranstaltungen und Aktivitäten für Mitglieder und Gäste umfasst. Besucher werden gebeten, vor Veranstaltungen Kontakt aufzunehmen​
 permalink: /semesterprogramm/index.html
-description: Semesteraktivitäten der alten Leipziger Landsmannschaft Afrania im CC. Hier finden Sie unser Semesterprogramm.
+description: Die Alte Leipziger Landsmannschaft Afrania stellt ihr aktuelles Semesterprogramm online bereit. Interessierte können das vielfältige Programm herunterladen, das Veranstaltungen und Aktivitäten für Mitglieder und Gäste umfasst. Besucher werden gebeten, vor Veranstaltungen Kontakt aufzunehmen​
 layout: page
 ---
 

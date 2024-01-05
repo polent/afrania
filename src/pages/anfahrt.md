@@ -1,9 +1,9 @@
 ---
 title: Anfahrt
 seo:
-  description: So gelangen Sie am schnellsten zur Alten Leipziger Landsmannschaft Afrania im CC
+  description: Die Anfahrtsseite der Alten Leipziger Landsmannschaft Afrania bietet detaillierte Anweisungen, um das Haus in Heidelberg zu erreichen, einschließlich Anfahrt mit der Autobahn, Beschilderung, Parkmöglichkeiten und einer alternativen Route mit der Bergbahn, um Treppen zu vermeiden
 permalink: /anfahrt/index.html
-description: Wegbeschreibung zur Landsmannschaft Afrania im CC
+description: Die Anfahrtsseite der Alten Leipziger Landsmannschaft Afrania bietet detaillierte Anweisungen, um das Haus in Heidelberg zu erreichen, einschließlich Anfahrt mit der Autobahn, Beschilderung, Parkmöglichkeiten und einer alternativen Route mit der Bergbahn, um Treppen zu vermeiden
 layout: page
 ---
 
